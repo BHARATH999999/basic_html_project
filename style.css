@@ -56,9 +56,9 @@ header>h1{
 }
 
 p{
-    font-size: large;
-    font-family:'Courier New', Courier, monospace;
-    line-height: 2rem;
+    font-size: x-large;
+    font-family:Cambria, Cochin;
+    line-height: 1.5rem;
 }
 
 .ht{
